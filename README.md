@@ -1,1 +1,3 @@
 # Coding-Quiz-Challenge-2
+
+My objective was to produce a functioning coding quiz with a countdown timer that identified correct and incorrect user responses, opened the next question, tracked scores, and captured that data for the user. With the help of a $165.00 tutor, over the course of 4 hours...sthis is my end result. Please be impressed as this is the most expensive "F" I've ever paid for. I am exhausted and I can't work on this anymore. Looking forward to reviewing my tutoring experience. 
